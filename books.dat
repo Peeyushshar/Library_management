@@ -1,0 +1,42 @@
+[
+    {
+        "id": 21,
+        "name": "python ",
+        "description": "Django",
+        "isbn": "90-374-234-0",
+        "page_count": 90,
+        "issued": true,
+        "author": "Peeyush",
+        "year": 20
+    },
+    {
+        "id": 22,
+        "name": "Math2",
+        "description": "Boolean",
+        "isbn": "239-1902-33932",
+        "page_count": 94,
+        "issued": true,
+        "author": "Peeyush_sharma",
+        "year": 20
+    },
+    {
+        "id": 90,
+        "name": "cn",
+        "description": "computer networks",
+        "isbn": "90-786-79",
+        "page_count": 90,
+        "issued": false,
+        "author": "Ps",
+        "year": 90
+    },
+    {
+        "id": 23,
+        "name": "Python2",
+        "description": "basic",
+        "isbn": "849-384-32",
+        "page_count": 34,
+        "issued": true,
+        "author": "Gopal",
+        "year": 34
+    }
+]
